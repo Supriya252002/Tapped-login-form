@@ -14,11 +14,14 @@
 
 # Key Features
  #Smooth Transitions:
+  
   Elegant and fluid transitions between login and signup forms for an enhanced user experience.
 
  #Responsive Design:
+ 
   Ensures optimal performance and appearance on all devices, including smartphones, tablets, and desktops.
 
  #User-Friendly Interface:
+ 
   1.Simple and clear input fields with helpful icons and placeholder text.
   2.Immediate feedback for validation to assist users in correcting mistakes.
